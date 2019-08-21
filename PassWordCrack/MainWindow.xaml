@@ -49,7 +49,7 @@
                         <ColumnDefinition Width="1*"/>
                         <ColumnDefinition Width="1*"/>
                     </Grid.ColumnDefinitions>
-                    <TextBlock TextWrapping="Wrap" Text="Zip Cracker is a open source tool, to find password of zip files. Press scan button, select a file and an output folder. And wait..." FontSize="14"/>
+                    <TextBlock TextWrapping="Wrap" FontSize="14"><Run Text="Zip Cracker is a "/><Run Text="free "/><Run Text="open source tool, to find password of zip files. "/><Run Text="Set scan setting, p"/><Run Text="ress scan button, select a file and an output folder. And wait..."/></TextBlock>
                     <TextBlock Grid.Column="1" TextWrapping="Wrap" FontSize="14"><Run Text="Only numbers scan is for a password like this : "/><Run Text="&quot;"/><Run Text="578923"/><Run Text="&quot;"/><Run Text=". "/><LineBreak/><Run Text="S"/><Run Text="can s"/><Run Text="peed : "/><Run Text="F"/><Run Text="ast."/></TextBlock>
                     <TextBlock TextWrapping="Wrap" Grid.Column="2" FontSize="14"><Run Text="Only letters in lowercase"/><Run Text=" scan"/><Run Text=" is for a password like this : "/><Run Text="&quot;hellomynameisgreg&quot;."/><LineBreak/><Run Text="Scan speed : "/><Run Text="M"/><Run Text="edium."/></TextBlock>
                     <TextBlock TextWrapping="Wrap" Margin="0,0,0,0" Grid.Row="1" FontSize="14"><Run Text="Letters and some specials char "/><Run Text="scan "/><Run Text="is for a password like this : "/><Run Text="&quot;"/><Run Text="|Hey[]&quot;."/><LineBreak/><Run Text="Scan speed : Long."/></TextBlock>
