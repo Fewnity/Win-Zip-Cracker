@@ -5,3 +5,8 @@ When the software has found the password, the password will be showed at the scr
 
 To open the project : Open Win Zip Cracker.sln with Visual studio (Project edited with VS 2017).
 And open MainWindow.xaml for UI and MainWindow.xaml.cs for code.
+
+TO DO LIST :
+Better help UI.
+Optimisations.
+An idea?
